@@ -23,5 +23,4 @@ class App < Sinatra::Base
     erb :teams
   end
 
-
 end
